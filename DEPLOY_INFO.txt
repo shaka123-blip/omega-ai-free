@@ -1,0 +1,7 @@
+OMEGA AI FREE - Deployment Info
+================================
+Username: shaka123-blip
+GitHub: https://github.com/shaka123-blip/omega-ai-free
+Hugging Face: https://huggingface.co/spaces/shaka123-blip/omega-ai-free
+Folder: C:\Users\hp\Desktop\omega-ai-free
+Date: 02/27/2026 23:33:07
